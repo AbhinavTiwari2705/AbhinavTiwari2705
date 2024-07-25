@@ -1,6 +1,6 @@
 
 
- <img src="https://i.redd.it/bpxxqqvps4h91.gif" style="width: 100%; height: 30%;" alt="CoolGif">
+ <img src="https://i.redd.it/bpxxqqvps4h91.gif" style="width: 100%; height: 10%;" alt="CoolGif">
 
 
 
